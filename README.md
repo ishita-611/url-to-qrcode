@@ -11,8 +11,11 @@ This project allows users to quickly convert any URL into a QR code. Users simpl
 2. Clone or download this repo
 3. Open a terminal in the project folder and run:
 
+```bash
 npm install
 node index.js
+```
+
 
 Enter your URL when prompted, a file named qr_img.png will be created in the same folder.
 
