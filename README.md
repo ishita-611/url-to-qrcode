@@ -19,7 +19,7 @@ node index.js
 
 Enter your URL when prompted, a file named qr_img.png will be created in the same folder.
 
-##Dependancies
+## Dependancies
 - Inquirer
 - qr-image
 
